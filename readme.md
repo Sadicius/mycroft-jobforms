@@ -23,10 +23,6 @@ https://github.com/Mycroft-Studios/mycroft-jobforms
 
 > This Script Was Made Because someone was selling a version of this with less features and Server Owners shouldn't have to spend money for such basic and simplistic code.
 
-This Script is a fantastic way for players to apply for in-game jobs within their RedM servers. This script allows players to fill out job applications in-game using a custom form that collects all the necessary information. Once the form is submitted, all the data is transferred via a webhook to a designated Discord channel, where it can
-be reviewed and processed by the server staff.
-
-Overall, the job application script for RedM is a powerful and essential tool for servers that want to streamline their hiring process and provide a better user experience for job applicants.
 
 # Notice
 Copyright 2023 Mycroft (Kasey Fitton)
