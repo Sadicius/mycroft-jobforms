@@ -13,7 +13,7 @@
 
 # Credits and thanks
 this is a reconverted work from FIVEM, the original script is the one from Pokemon cards but redesigned and adapted to REDM by me.
-[https://github.com/DafkeDD/jim-pokemon](https://github.com/Mycroft-Studios/mycroft-jobforms)
+(https://github.com/Mycroft-Studios/mycroft-jobforms)
 
 # Preview
 [![](https://i.imgur.com/5ej6Teu.png)](https://streamable.com/gex5u0)
