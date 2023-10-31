@@ -1,4 +1,4 @@
-# VERSION FOR REDM
+# VERSION 
 - version adapted for RSG
 
 
@@ -39,6 +39,8 @@ This Script is a fantastic way for players to apply for in-game jobs within thei
 be reviewed and processed by the server staff.
 
 Overall, the job application script for REDM is a powerful and essential tool for servers that want to streamline their hiring process and provide a better user experience for job applicants.
+
+# by Sadicius#1150 version
 
 ## Notice
 
