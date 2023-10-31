@@ -13,12 +13,11 @@
 
 # Credits and thanks
 this is a reconverted work from FIVEM, the original script is the one from Pokemon cards but redesigned and adapted to REDM by me.
-(https://github.com/Mycroft-Studios/mycroft-jobforms)
+https://github.com/Mycroft-Studios/mycroft-jobforms
 
 # Preview
 [![](https://i.imgur.com/5ej6Teu.png)](https://streamable.com/gex5u0)
 
-https://github.com/Mycroft-Studios/mycroft-jobforms
 
 <h1 align='center'>[Mycroft] Job Forms </a></h1><p align='center'><b>Highly Configurable Job Forms with ox lib</b></h5>
 
