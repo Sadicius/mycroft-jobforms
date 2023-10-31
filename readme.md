@@ -1,13 +1,6 @@
-<h1 align='center'>[Mycroft] Job Forms </a></h1><p align='center'><b>Highly Configurable Job Forms with ox lib</b></h5>
+# VERSION FOR REDM
+- version adapted for RSG
 
-> This Script Was Made Because someone was selling a version of this with less features and Server Owners shouldn't have to spend money for such basic and simplistic code.
-
-> I've also decided to MIT license this code, do whatever you want with it.
-
-This Script is a fantastic way for players to apply for in-game jobs within their FiveM servers. This script allows players to fill out job applications in-game using a custom form that collects all the necessary information. Once the form is submitted, all the data is transferred via a webhook to a designated Discord channel, where it can
-be reviewed and processed by the server staff.
-
-Overall, the job application script for FiveM is a powerful and essential tool for servers that want to streamline their hiring process and provide a better user experience for job applicants.
 
 ## Features
 
@@ -33,6 +26,19 @@ Overall, the job application script for FiveM is a powerful and essential tool f
 ## Preview
 
 [![](https://i.imgur.com/5ej6Teu.png)](https://streamable.com/gex5u0)
+
+# Credits and thanks
+
+<h1 align='center'>[Mycroft] Job Forms </a></h1><p align='center'><b>Highly Configurable Job Forms with ox lib</b></h5>
+
+> This Script Was Made Because someone was selling a version of this with less features and Server Owners shouldn't have to spend money for such basic and simplistic code.
+
+> I've also decided to MIT license this code, do whatever you want with it.
+
+This Script is a fantastic way for players to apply for in-game jobs within their FiveM servers. This script allows players to fill out job applications in-game using a custom form that collects all the necessary information. Once the form is submitted, all the data is transferred via a webhook to a designated Discord channel, where it can
+be reviewed and processed by the server staff.
+
+Overall, the job application script for REDM is a powerful and essential tool for servers that want to streamline their hiring process and provide a better user experience for job applicants.
 
 ## Notice
 
