@@ -1,3 +1,5 @@
+local RSGCore = exports['rsg-core']:GetCoreObject()
+
 function DoApplication(AreaIndex)
     local area = Config.Areas[AreaIndex]
     local Questions = area.Questions
@@ -46,7 +48,7 @@ CreateThread(function()
             function point:nearby()
                 if self.area.MarkerSettings.DrawMarker then
                     local m_set = self.area.MarkerSettings
-                    DrawMarker(m_set.type, self.coords.x, self.coords.y, self.coords.z, 0, 0, 0, m_set.rotation.x, m_set.rotation.y, m_set.rotation.z, m_set.size.x, m_set.size.y, m_set.size.z, m_set.colour.r, m_set.colour.g, m_set.colour.b, m_set.colour.a, false, true, 2, nil, nil, false)
+                    --DrawMarker(m_set.type, self.coords.x, self.coords.y, self.coords.z, 0, 0, 0, m_set.rotation.x, m_set.rotation.y, m_set.rotation.z, m_set.size.x, m_set.size.y, m_set.size.z, m_set.colour.r, m_set.colour.g, m_set.colour.b, m_set.colour.a, false, true, 2, nil, nil, false)
                 end
 
                 if self.currentDistance < 1 then
@@ -54,7 +56,7 @@ CreateThread(function()
                         self.DrawingTextUI = true
                         lib.showTextUI(self.area.MarkerSettings.TextUI)
                     end
-                    if IsControlJustPressed(0, 38) then
+                    if IsControlJustPressed(0, RSGCore.Shared.Keybinds[Config.Key]) then
                         if Config.ApplicationSettings.Cooldown.enabled then 
                             if LocalPlayer.state.ApplicationCooldown then 
                                 return lib.notify({

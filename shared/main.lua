@@ -1,6 +1,7 @@
 Config = {}
 
 Config.UseTarget = false -- ox target support
+Config.Key= 'J'
 
 -- Discord Log Settings
 Config.ServerName = "Example Roleplay"
@@ -36,7 +37,7 @@ Config.Areas = {
     {
         label = "Police Application",
         webhook = "police", -- note if not present, it will send to "default"
-        Coords = vector3(441.5298, -981.1339, 30.6896),
+        Coords = vector3(-277.86, 807.47, 119.38),
         Blip = {
             enabled = false,
             sprite = 1,
@@ -56,7 +57,7 @@ Config.Areas = {
             type = 21,
             Distance = 10.0,
             colour = {r = 50, g = 200, b = 50, a = 200},
-            TextUI = "[E] -> Police Applications"
+            TextUI = "[J] -> Police Applications"
         },
         Questions = {
             {
